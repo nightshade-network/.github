@@ -6,5 +6,5 @@ it is a collection of private-use services for stelle and her friends. don't exp
 
 if you're interested, [contact me](mailto:admin@nightshade.network). i would love to talk infra.
 
-nightshade network is built on [hetzner](https://hetzner.com) and [tailscale](https://tailscale.com).
-i do not receive payment for these services, in fact, i pay *them*. they're just good.
+nightshade network is built on [hetzner](https://hetzner.com), [tailscale](https://tailscale.com), and [nixos](https://nixos.org).  
+(i do not receive payment for these services, in fact, i pay *them*. they're just good.)
