@@ -6,4 +6,4 @@ it is a collection of private-use services for sylvie, her system and her friend
 
 if you're interested, [contact me](mailto:hi@sylvie.software). i would love to talk infra.
 
-nightshade network is built on [hetzner](https://hetzner.com), [contabo](https://contabo.com), [tailscale](https://tailscale.com), and [debian](https://debian.org), powered by a custom deployment architecture we call 'NIS' _(not public yet but soon to be)_.
+nightshade network is built on [hetzner](https://hetzner.com), [contabo](https://contabo.com), [tailscale](https://tailscale.com), and [debian](https://debian.org), powered by a custom deployment architecture we call 'NIS' _(which is not public yet but soon to be)_. we also make heavy use of Apple products. _(the majority of NIS was developed on a Mac.)_
